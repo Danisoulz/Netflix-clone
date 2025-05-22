@@ -9,7 +9,7 @@ Você pode visualizar o projeto online aqui: (https://danisoulz.github.io/Netfli
 
 - HTML5
 - CSS3
-- JavaScript (puro)
+- JavaScript
 
 ## 🛠️ Funcionalidades
 
